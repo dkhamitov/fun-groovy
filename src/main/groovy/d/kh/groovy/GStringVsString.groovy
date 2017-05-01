@@ -1,4 +1,4 @@
-package d.kh
+package d.kh.groovy
 
 /**
  * Created by khamitovdm on 16/12/2016.
